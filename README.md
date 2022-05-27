@@ -71,5 +71,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [your-website.com](https://elpinto110.github.io/ElPinto110.githum.io/)
-- GitHub [@ElPinto110](https://{github.com/ElPinto110})
-- Twitter [@victorjosepint1](https://{twitter.com/victorjosepint1})
+- GitHub [@ElPinto110](https://github.com/ElPinto110)
+- Twitter [@victorjosepint1](https://twitter.com/victorjosepint1)
