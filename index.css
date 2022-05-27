@@ -1,0 +1,55 @@
+body {
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.img-container {
+    display: flex;
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+}
+.img {
+    width: 300px;
+    height: 300px;
+}
+.message {
+    display: flex;
+    width: 100%; 
+    flex-direction: row;
+}
+.notice {
+    font-size: 1.7rem;
+    width: 100%; 
+}
+.text {
+    width: 17rem;
+    font-size: 1.45rem;
+}
+.out {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    justify-self: center;
+    width: 10rem;
+    font-size: 0.8rem;
+    
+}
+.creator {
+    text-align: center;
+    color: gray;
+    align-content: flex-end;
+}
+@media (max-width: 800px){
+    .message {
+        flex-direction: column;
+    }
+
+    .img-container {
+        width: 100%;
+    }
+}
