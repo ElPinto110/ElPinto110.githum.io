@@ -1,9 +1,9 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Challenge_error_404.html}</h1>
+<h1 align="center">{404 NOT FOUND}</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+   Solution for a challenge from  <a href="http://devchallenges.io" target="(https://elpinto110.github.io/ElPinto110.githum.io/)">Devchallenges.io</a>
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://elpinto110.github.io/ElPinto110.githum.io/">
       Solution
     </a>
     <span> | </span>
@@ -70,6 +70,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
+- Website [your-website.com](https://elpinto110.github.io/ElPinto110.githum.io/)
 - GitHub [@ElPinto110](https://{github.com/ElPinto110})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Twitter [@victorjosepint1](https://{twitter.com/victorjosepint1})
