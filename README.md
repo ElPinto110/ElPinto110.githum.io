@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{www.figma.com/file/yq7seqTyAWzYMRGCqVhM41/404-NOT-FOUND}">
+    <a href="https://www.figma.com/file/yq7seqTyAWzYMRGCqVhM41/404-NOT-FOUND">
       Demo
     </a>
     <span> | </span>
